@@ -38,3 +38,7 @@ The application features a unique **Dual-Mode Interface**:
 
 ---
 
+**Note:** The `node_modules` folder has been excluded to keep the submission file size optimized. 
+npm install for the node modules
+Use your OWN API KEY. 
+
