@@ -38,11 +38,3 @@ The application features a unique **Dual-Mode Interface**:
 
 ---
 
-## 🚀 Installation & Setup Guide
-**Note to Judges:** The `node_modules` folder has been excluded to keep the submission file size optimized. Please follow the steps below to rebuild the environment.
-
-### 1. Clone & Open
-Navigate to the project directory in your terminal:
-```bash
-git clone [https://github.com/YOUR_USERNAME/ThreatScope-AI-multimodal-forensic-scanner.git](https://github.com/YOUR_USERNAME/ThreatScope-AI-multimodal-forensic-scanner.git)
-cd ThreatScope-AI-multimodal-forensic-scanner
