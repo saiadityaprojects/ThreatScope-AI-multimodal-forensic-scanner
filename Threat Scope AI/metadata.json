@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Email Forensics",
+  "description": "A cyberpunk-themed tool to analyze raw email files for phishing indicators using Gemini AI.",
+  "requestFramePermissions": []
+}
